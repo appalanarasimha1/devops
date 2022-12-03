@@ -1,4 +1,6 @@
-this is the file from aws has been changed...
+this is a file from branch has been changed...
+
+new this is the file from aws has been changed
 
 
 this file is right 
